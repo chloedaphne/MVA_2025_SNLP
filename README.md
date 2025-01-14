@@ -45,7 +45,7 @@ Basic linear algebra, calculus, probability theory, basic machine/deep learning
 
 ### 10 classes
 
-The courses consist of 10 three-hours slots. This year, the course will take place in person, distributed over several sites within Paris (please see each separate course for the location).
+The courses consist of 10 three-hours slots. This year, the course will take place in person, on Thursdays, from 2pm to 5pm, at the Ecole Normale Supérieure, (45 rue d'ULM) or Ecole de Médecine ().
 
 Each three-hour slot will have a lecture lasting approximately two hours, followed by a quiz and Q&As.
 
@@ -57,9 +57,9 @@ Evaluation consists of 2 parts:
 
 ### Schedule
 
-- [#1: Thursday  16, January  2025 (4pm-7pm): Introduction and NLP1](https://github.com/rbawden/MVA_2024_SL/tree/main/Course_%231) (Benoît Sagot), Salle Dussane (45 rue d'Ulm)
-- [#2: Thursday 7th March 2024 (2pm-5pm): Representation learning and language modelling 1](https://github.com/rbawden/MVA_2024_SL/tree/main/Course_%232) (Guillaume Wisniewski), Luton Amphitheatre (Faculté de médecine - Cochin campus)
-- [#3: Friday 8th March 2024 (4pm-7pm): Representation learning and language modelling 2](https://github.com/rbawden/MVA_2024_SL/tree/main/Course_%233) (Guillaume Wisniewski), Salle Jaurès (29 rue d'Ulm)
+- [#1: Thursday  16th, January  2025 (2pm-5pm): Introduction and NLP1](https://github.com/rbawden/MVA_2024_SL/tree/main/Course_%231) (Benoît Sagot), Salle Dussane (45 rue d'Ulm)
+- [#2: Thursday 6th, February 2025 (2pm-5pm): Representation learning and language modelling 1](https://github.com/rbawden/MVA_2024_SL/tree/main/Course_%232) (Guillaume Wisniewski), Luton Amphitheatre (Faculté de médecine - Cochin campus)
+- [#3: Thursday 8th March 2024 (4pm-7pm): Representation learning and language modelling 2](https://github.com/rbawden/MVA_2024_SL/tree/main/Course_%233) (Guillaume Wisniewski), Salle Jaurès (29 rue d'Ulm)
 - [#4: Friday 15th March 2024 (4pm-7pm): Machine translation](https://github.com/rbawden/MVA_2024_SL/tree/main/Course_%234) (Rachel Bawden), Salle Dussane (45 rue d'Ulm)
 - [#5: Thursday 21st March 2024 (2pm-5pm): Sentiment analysis and labelling tasks](https://github.com/rbawden/MVA_2024_SL/tree/main/Course_%235) (Chloé Clavel), Pavillon 1 (Faculté de médecine - Cordeliers campus)
 - [#6: Friday 22nd March 2024 (4pm-7pm): Chatbots and real world data challenges](https://github.com/rbawden/MVA_2024_SL/tree/main/Course_%236) (Benoît Sagot and Djamé Seddah), Salle Dussane (45 rue d'Ulm)
