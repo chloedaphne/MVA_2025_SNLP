@@ -57,9 +57,10 @@ Evaluation consists of 2 parts:
 
 ### Schedule
 
-- [#1: Thursday  16th, January  2025 (2pm-5pm): Introduction and NLP1](https://github.com/rbawden/MVA_2024_SL/tree/main/Course_%231) (Benoît Sagot), Salle Dussane (45 rue d'Ulm)
-- [#2: Thursday 6th, February 2025 (2pm-5pm): NLP2](https://github.com/rbawden/MVA_2024_SL/tree/main/Course_%232) (), Luton Amphitheatre (UPCité, Cordelliers, - Ampjhi Frezal)
-- [#3: Thursday 13th, February 2025 (2pm-5pm): Sentiment Analysis](https://github.com/rbawden/MVA_2024_SL/tree/main/Course_%232) (Chloe Clavel), Luton Amphitheatre (UPCité Necker - amphi 1)
+- [#1: Thursday  16th, January  2025 (2pm-5pm): Introduction and NLP1](https://github.com/rbawden/MVA_2024_SL/tree/main/Course_%231) (Benoît Sagot), Salle Dussane (ENS 45 rue d'Ulm)
+- [#2: Thursday 6th, February 2025 (2pm-5pm): NLP2](https://github.com/rbawden/MVA_2024_SL/tree/main/Course_%232) (Mathieu), Amphi Freza (UPCité, Cordelliers)
+- [#3: Thursday 13th, February 2025 (2pm-5pm): Sentiment Analysis](https://github.com/rbawden/MVA_2024_SL/tree/main/Course_%232) (Chloe Clavel), Amphi 1 (UPCité Necker)
+- [#4: Thursday 20th, February 2025 (2pm-5pm): Speech 1](https://github.com/rbawden/MVA_2024_SL/tree/main/Course_%232) (E. Dupoux), Amphi Jaures (ENS 45 rue d'Ulm)
 
 - Exam: Friday 29th March 2024 (4pm-7pm), Salle Dussane (45 rue d'Ulm)
 
