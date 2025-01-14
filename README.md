@@ -42,7 +42,7 @@ Basic linear algebra, calculus, probability theory, basic machine/deep learning
 
 ## Organisation
 
-### 7 classes
+### 10 classes
 
 The courses consist of 10 three-hours slots. This year, the course will take place in person, distributed over several sites within Paris (please see each separate course for the location).
 
@@ -52,7 +52,7 @@ Each three-hour slot will have a lecture lasting approximately two hours, follow
 
 Evaluation consists of 2 parts:
 - **Quizzes** (40% of the total grade): You'll be given a link to an online questionnaire (google form) and will have 30 minutes to complete the questionnaire, which will be activated exactly at 6:00pm and closed down at a time decided on-the-fly by the professors, generally 6:30pm. Any forms submitted after the deadline will be automatically rejected and graded as zero. The quizzes will contain comprehension questions and the best 5 grades out of the 6 quizzes will be used for the average. Between 6:30 and 7:00 there will be a Q&A period where you'll be able to ask questions about the course and quiz.
-- **Project** (60% of the total grade): You'll work in small groups of 2-4 around a recent paper in speech or language processing which has already some existing code. Your task will be 1. to replicate the main result of the paper 2. run an experiment testing a new question not tested in the paper (propose another approach/improvement on the task, or make the method work on another task or another dataset). You'll present your plan in a one page document for 14 February (specify what you want to do, the planning, and how you will collaborate within the group), and your results in a 4 pages document and 10 minutes oral presentation + 5 minutes questions in week #10.
+- **Project** (60% of the total grade): You'll work in small groups of 2-4 around a recent paper in speech or language processing which has already some existing code. Your task will be 1. to replicate the main result of the paper 2. run an experiment testing a new question not tested in the paper (propose another approach/improvement on the task, or make the method work on another task or another dataset). You'll present your plan in a one page document for 14 February (specify what you want to do, the planning, and how you will collaborate within the group), and your results in a 4 pages document (deadline: 30 March) and 10 minutes oral presentation + 5 minutes questions between 31 March et du 7 April .
 
 ### Schedule
 
