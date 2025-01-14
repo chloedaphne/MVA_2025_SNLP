@@ -43,7 +43,7 @@ Basic linear algebra, calculus, probability theory, basic machine/deep learning
 
 ## Organisation
 
-### 10 classes
+### 9 classes
 
 The courses consist of 9 three-hours slots. This year, the course will take place in person, on Thursdays, from 2pm to 5pm, at the Ecole Normale Supérieure, (ENS, 45 rue d'ULM, 5e), UPCité Necker (160 rue de Vaugirard, 15e), or UP Cité Cordelier (15 rue de l'École de médecine, 6e) -- verify on the schedule below.
 
