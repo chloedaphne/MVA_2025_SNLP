@@ -76,6 +76,18 @@ Evaluation consists of 2 parts:
 - **Oral presentation** (remote): 10 minutes presentation + 5 minutes questions. Slot TBA within: Monday, 31 March 2025 - Thursday, April 10, 2025
 
 
+### Project topics
+
+Project 1:  NLP-Lexical Semantics 
+Project 2 : Hate speech detection 
+Project 3 : Translation 
+Project 4 : Text-Image Multimodal models
+Project 5 : Speech recognition in a low resource language
+Project 6 : Speech language models
+Project 7 : language emergence
+
+Details [HERE](https://github.com/chloedaphne/MVA_2025_SNLP/tree/main/Project_topics) 
+
 ### Q&A
 
 _What happens if I get less than 10/20 on average? Can I take another exam?_
@@ -85,5 +97,6 @@ Any obtained grade is final, so there is no possibility of resitting the exam.
 _What happens if i cannot be present to the course, and therefore cannot do the online quiz?_
 
 Failure to submit the quiz on time will result in a mark of 0/20 for that quiz, unless you can demonstrate that it was materially impossible for you to be present to the course. Such documented requestes should be sent to mva.speech.language@gmail.com together with the name and date of the missed quiz. The best 5 grades out of the 6 quizzes will be used for the average, giving you the possibility of skipping one quiz.
+
 
 
