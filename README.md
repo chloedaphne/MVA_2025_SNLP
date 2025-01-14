@@ -64,8 +64,9 @@ Evaluation consists of 2 parts:
 - [#5: Thursday 27th, February 2025 (2pm-5pm): Speech 2: language models for ASR](https://github.com/rbawden/MVA_2024_SL/tree/main/Course_%232) (E. Dupoux), Amphi Dussane (ENS 45 rue d'Ulm)
 - [#6: Thursday 6th, March 2025 (2pm-5pm): Speech 3: speech foundation models](https://github.com/rbawden/MVA_2024_SL/tree/main/Course_%232) (E. Dupoux), Amphi Frezal (UPCité, Cordelliers)
 
-- [#7: Thursday 13th, March 2025 (2pm-5pm): Dialogue](https://github.com/rbawden/MVA_2024_SL/tree/main/Course_%232) (), Amphi Frezal (UPCité, Cordelliers)
-- [#8: Thursday 20th, March 2025 (2pm-5pm): Translation](https://github.com/rbawden/MVA_2024_SL/tree/main/Course_%232) (), Amphi Frezal (UPCité, Cordelliers)
+- [#7: Thursday 13th, March 2025 (2pm-5pm): Dialogue](https://github.com/rbawden/MVA_2024_SL/tree/main/Course_%232) (TBA), Amphi Frezal (UPCité, Cordelliers)
+- [#8: Thursday 20th, March 2025 (2pm-5pm): Translation](https://github.com/rbawden/MVA_2024_SL/tree/main/Course_%232) (TBA), Amphi Frezal (UPCité, Cordelliers)
+- [#9: Thursday 27th, March 2025 (2pm-5pm): Language models everywhere: Code and Agents](https://github.com/rbawden/MVA_2024_SL/tree/main/Course_%232) (TBA), Amphi 1 (UPCité, Necker)
 
 - Exam: Friday 29th March 2024 (4pm-7pm), Salle Dussane (45 rue d'Ulm)
 
