@@ -13,7 +13,8 @@ This year, the course is co-organised by: Chloé Clavel (Inria), Emmanuel Dupoux
 
 ## Contact information
 
-For any questions/requests related to this course, please send an email to these addresses: chloe.clavel@inria.fr; benoit.sagot@inria.fr; emmanuel.dupoux@gmail.com; rachel.bawden@inria.fr
+For any questions/requests related to this course, please send an email to these addresses: mva.speech.language@gmail.com;
+chloe.clavel@inria.fr; benoit.sagot@inria.fr; emmanuel.dupoux@gmail.com; rachel.bawden@inria.fr
 ## Course materials
 
 ### Course Objectives
