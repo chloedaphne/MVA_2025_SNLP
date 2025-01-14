@@ -60,7 +60,7 @@ Evaluation consists of 2 parts:
 - [#1: Thursday  16th, January  2025 (2pm-5pm): Introduction and NLP1](https://github.com/chloedaphne/MVA_2025_SNLP/tree/main/Course_%231) (Benoît Sagot), Salle Dussane (ENS 45 rue d'Ulm)
 - [#2: Thursday 6th, February 2025 (2pm-5pm): NLP2](https://github.com/chloedaphne/MVA_2025_SNLP/tree/main/Course_%232) (Mathieu), Amphi Frezal (UPCité, Cordelliers)
 - [#3: Thursday 13th, February 2025 (2pm-5pm): Sentiment Analysis](https://github.com/chloedaphne/MVA_2025_SNLP/tree/main/Course_%233) (Chloe Clavel), Amphi 1 (UPCité Necker)
-- Friday 14th, Februrary 2025. DEADLINE FOR SENDING 1 PAGE PROJECT PLAN  (late submissions will be penalized by 1 point/20 every day)
+- **Friday 14th, Februrary 2025. DEADLINE FOR SENDING 1 PAGE PROJECT PLAN**  (late submissions will be penalized by 1 point/20 every day)
 - [#4: Thursday 20th, February 2025 (2pm-5pm): Speech 1: acoustic models for ASR](https://github.com/chloedaphne/MVA_2025_SNLP/tree/main/Course_%234) (E. Dupoux), Amphi Jaures (ENS 29 rue d'Ulm)
 - [#5: Thursday 27th, February 2025 (2pm-5pm): Speech 2: language models for ASR](https://github.com/chloedaphne/MVA_2025_SNLP/tree/main/Course_%235) (E. Dupoux), Amphi Dussane (ENS 45 rue d'Ulm)
 - [#6: Thursday 6th, March 2025 (2pm-5pm): Speech 3: speech foundation models](https://github.com/chloedaphne/MVA_2025_SNLP/tree/main/Course_%236) (E. Dupoux), Amphi Frezal (UPCité, Cordelliers)
@@ -69,9 +69,9 @@ Evaluation consists of 2 parts:
 - [#8: Thursday 20th, March 2025 (2pm-5pm): Translation](https://github.com/chloedaphne/MVA_2025_SNLP/tree/main/Course_%238) (TBA), Amphi Frezal (UPCité, Cordelliers)
 - [#9: Thursday 27th, March 2025 (2pm-5pm): Language models everywhere: Code and Agents](https://github.com/chloedaphne/MVA_2025_SNLP/tree/main/Course_%239) (TBA), Amphi 1 (UPCité, Necker)
 
-- Friday 28th, March, 2025: **DEADLINE FOR SENDING 4 PAGES PROJECT REPORT** (late submissions will be penalized by 1 point/20 every day)
+- **Friday 28th, March, 2025: DEADLINE FOR SENDING 4 PAGES PROJECT REPORT** (late submissions will be penalized by 1 point/20 every day)
 
-- Oral presentation (remote): 10 minutes presentation + 5 minutes questions. Slot TBA within: Monday, 31 March 2025 - Thursday, April 10, 2025
+- **Oral presentation** (remote): 10 minutes presentation + 5 minutes questions. Slot TBA within: Monday, 31 March 2025 - Thursday, April 10, 2025
 
 
 ### Q&A
