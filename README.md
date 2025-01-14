@@ -13,8 +13,8 @@ This year, the course is co-organised by: Chloé Clavel (Inria), Emmanuel Dupoux
 
 ## Contact information
 
-For any questions/requests related to this course, please send an email to these addresses: mva.speech.language@gmail.com;
-chloe.clavel@inria.fr; benoit.sagot@inria.fr; emmanuel.dupoux@gmail.com; rachel.bawden@inria.fr
+For any questions/requests related to this course, use this address: mva.speech.language@gmail.com.
+
 ## Course materials
 
 ### Course Objectives
@@ -57,7 +57,7 @@ Evaluation consists of 2 parts:
 
 ### Schedule
 
-- [#1: Friday 1st March 2024 (4pm-7pm): Introduction](https://github.com/rbawden/MVA_2024_SL/tree/main/Course_%231) (Benoît Sagot), Salle Dussane (45 rue d'Ulm)
+- [#1: Thursday  16, January  2025 (4pm-7pm): Introduction and NLP1](https://github.com/rbawden/MVA_2024_SL/tree/main/Course_%231) (Benoît Sagot), Salle Dussane (45 rue d'Ulm)
 - [#2: Thursday 7th March 2024 (2pm-5pm): Representation learning and language modelling 1](https://github.com/rbawden/MVA_2024_SL/tree/main/Course_%232) (Guillaume Wisniewski), Luton Amphitheatre (Faculté de médecine - Cochin campus)
 - [#3: Friday 8th March 2024 (4pm-7pm): Representation learning and language modelling 2](https://github.com/rbawden/MVA_2024_SL/tree/main/Course_%233) (Guillaume Wisniewski), Salle Jaurès (29 rue d'Ulm)
 - [#4: Friday 15th March 2024 (4pm-7pm): Machine translation](https://github.com/rbawden/MVA_2024_SL/tree/main/Course_%234) (Rachel Bawden), Salle Dussane (45 rue d'Ulm)
