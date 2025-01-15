@@ -45,15 +45,15 @@ Basic linear algebra, calculus, probability theory, basic machine/deep learning
 
 ### 9 classes
 
-The courses consist of 9 three-hours slots. This year, the course will take place in person, on Thursdays, from 2pm to 5pm, at the Ecole Normale Supérieure, (ENS, 45 rue d'ULM, 5e), UPCité Necker (160 rue de Vaugirard, 15e), or UP Cité Cordelier (15 rue de l'École de médecine, 6e) -- verify on the schedule below.
+The course consists of 9 three-hours slots. This year, it will take place in person, on Thursdays from 2pm to 5pm at the Ecole Normale Supérieure, (ENS, 45 rue d'ULM, 5e), UPCité Necker (160 rue de Vaugirard, 15e), or UP Cité Cordelier (15 rue de l'École de médecine, 6e) depending on the date -- check the venues on the schedule below.
 
 Each three-hour slot will have a lecture lasting approximately two hours, followed by a quiz and Q&As.
 
 ### Evaluation
 
 Evaluation consists of 2 parts:
-- **Quizzes** (40% of the total grade): You'll be given a link to an online questionnaire (google form) and will have 30 minutes to complete the questionnaire, which will be activated exactly at 6:00pm and closed down at a time decided on-the-fly by the professors, generally 6:30pm. Any forms submitted after the deadline will be automatically rejected and graded as zero. The quizzes will contain comprehension questions and the best 5 grades out of the 6 quizzes will be used for the average. Between 6:30 and 7:00 there will be a Q&A period where you'll be able to ask questions about the course and quiz.
-- **Project** (60% of the total grade): You'll work in small groups of 2-4 around a recent paper in speech or language processing which has already some existing code. Your task will be 1. to replicate the main result of the paper 2. run an experiment testing a new question not tested in the paper (propose another approach/improvement on the task, or make the method work on another task or another dataset). You'll present your plan in a one page document for 14 February (specify what you want to do, the planning, and how you will collaborate within the group), and your results in a 4 pages document (deadline: 28 March) and 10 minutes oral presentation + 5 minutes questions - time slots TBA between 31 March 31 and April 11.
+- **Quizzes** (40% of the total grade): You will be given a link to an online questionnaire (google form) and will have 30 minutes to complete the questionnaire, which will be activated exactly at 6:00pm and closed down at a time decided on-the-fly by the professors, generally 6:30pm. Any forms submitted after the deadline will be automatically rejected and graded as zero. The quizzes will contain comprehension questions and the best 5 grades out of the 6 quizzes will be used for the average. Between 6:30 and 7:00 there will be a Q&A period where you'll be able to ask questions about the course and quiz.
+- **Project** (60% of the total grade): You will work in small groups of 2-4 around a recent paper in speech or language processing which has existing code. Your task will be 1) to replicate the main result of the paper, 2) run an experiment testing a new question not tested in the paper (propose another approach/improvement to the task, or make the method work on another task or another dataset). You will present your plan in a one-page document for 14 February (specify what you want to do, the planning, and how you will collaborate within the group), and your results in a 4-page document (deadline: 28 March) and 10-minute oral presentation (+ 5 minutes of questions) - time slots TBA between 31 March and 11 April.
 
 ### Schedule
 
@@ -71,20 +71,20 @@ Evaluation consists of 2 parts:
 - [#8: Thursday 20th, March 2025 (2pm-5pm): Translation](https://github.com/chloedaphne/MVA_2025_SNLP/tree/main/Course_%238) (TBA), Amphi Frezal (UPCité, Cordelliers)
 - [#9: Thursday 27th, March 2025 (2pm-5pm): Language models everywhere: Code and Agents](https://github.com/chloedaphne/MVA_2025_SNLP/tree/main/Course_%239) (TBA), Amphi 1 (UPCité, Necker)
 
-- **Friday 28th, March, 2025: DEADLINE FOR SENDING 4 PAGES PROJECT REPORT** (late submissions will be penalized by 1 point/20 every day)
+- **Friday 28th March, 2025: DEADLINE FOR SENDING the 4 PAGE-PROJECT REPORT** (late submissions will be penalised by 1 point/20 every day)
 
-- **Oral presentation** (remote): 10 minutes presentation + 5 minutes questions. Slot TBA within: Monday, 31 March 2025 - Thursday, April 10, 2025
+- **Oral presentation** (remote): 10-minute presentation + 5 minutes of questions. Slot TBA between Monday 31 March 2025 and Thursday April 10, 2025
 
 
 ### Project topics
 
 - Project 1:  NLP-Lexical Semantics 
-- Project 2 : Hate speech detection 
-- Project 3 : Translation 
-- Project 4 : Text-Image Multimodal models
-- Project 5 : Speech recognition in a low resource language
-- Project 6 : Speech language models
-- Project 7 : language emergence
+- Project 2: Hate speech detection 
+- Project 3: Translation 
+- Project 4: Text-Image Multimodal models
+- Project 5: Speech recognition in a low resource language
+- Project 6: Speech language models
+- Project 7: language emergence
 
 Details [HERE](https://github.com/chloedaphne/MVA_2025_SNLP/tree/main/Project_topics) 
 
