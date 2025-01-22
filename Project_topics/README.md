@@ -22,5 +22,8 @@ Self-supervised speech representation learning (SSL) is the core component of mo
 Some ideas for extensions: comparison with other monolingual or multilingual models, comparison of performance between finetuning languages, other tasks (phone recognition, language identification...), other training procedure (LoRA or other PEFT methods as in ML-SUPERB 2.0, etc.), multilingual finetuning vs monolingual finetuning.
 
 - Project 6 : Speech language models
-- Project 7 : language emergence
 
+
+- Project 7: [**Anti-efficient encoding in emergent communication**](https://papers.nips.cc/paper/2019/file/31ca0ca71184bbdb3de7b20a51e88e90-Paper.pdf) (Chaabouni et al., 2019) & [**Lazimpa: Lazy and impatient agents learn to communicate efficiently**](https://www.aclweb.org/anthology/2020.conll-1.26/) (Rita et al., 2020) ([Code 1](https://github.com/facebookresearch/EGG), [Code 2](https://github.com/MathieuRita/Lazimpa)) Project supervisor: Jean-Baptiste Sevestre (jean-baptiste.sevestre@ens.psl.eu)
+ 	
+These papers aim to study how universal properties of human languages (here efficient coding of the transmitted information) can emerge (or not) in simple communicative agents depending on the architecture and inductive biases of these agents. The project aims to reproduce one experiment of one of these two papers and propose, motivate and test a new experiment.
