@@ -10,7 +10,18 @@ Words often have multiple meanings, and some are used more frequently than other
 
 Hate speech classifiers often over-predict hate speech when identity terms (e.g., "women", "black", "muslim") are present, leading to the over-targeting of mentions of marginalized communities. This paper introduces a refined explainability framework, using generative models and necessity and sufficiency metrics, to analyze such errors in detection.
 
-- Project 3 : Translation 
+- Project 3 : Translation [**A Paradigm Shift In Machine Translation: Boosting Translation Performance of Large Language Models**](https://arxiv.org/pdf/2309.11674)
+  Project supervisor: Armel Randy Zebaze (armel.zebaze-dongmo@inria.fr)
+
+  Generative Large Language Models (LLMs) have achieved remarkable advancements in various NLP tasks. However, these advances have not been reflected in the translation task, especially those with moderate model sizes (i.e., 7B or 13B parameters), which still lag behind conventional supervised encoder-decoder translation models. This paper introduces a novel fine-tuning approach for LLMs that is specifically designed for the translation task, eliminating the need for the abundant parallel data that traditional translation models usually depend on. The approach consists of two fine-tuning stages: initial fine-tuning on monolingual data followed by subsequent fine-tuning on a small set of high-quality parallel data.
+
+  The objective of this project is to familiarize with the Machine Translation task. It involves using language models to perform the Machine Translation task and evaluate the outputs using the relevant metrics (e.g. BLEU, chrF++, COMET and more). Moreover, fine-tuning language models and evaluating them is also expected (this should be possible for small enough LLMs with quantization and peft methods, using colab). The students are also invited to reflect on fine-tuning vs. In-Context Learning (Brown et al. 2020) in the context of MT and more importantly to think about the broader implications of this work for the field and its challenges.
+
+  Relevant resources:
+    - [Initial release](https://github.com/fe1ixxu/ALMA/tree/a3cc7877752779346312bb07798172eadc83d692)
+    - [Updated release](https://github.com/fe1ixxu/ALMA)
+    - [Fine-tuning a model on a 16GB GPU](https://colab.research.google.com/github/ashishpatel26/LLM-Finetuning/blob/main/2.Fine_Tune_Your_Own_Llama_2_Model_in_a_Colab_Notebook.ipynb)
+  
 - Project 4 :   [**When and Why Vision-Language Models Behave like Bags-Of-Words, and What to Do About It?**](https://openreview.net/pdf?id=KRLUvxh8uaX) (Yuksekgonul et al., 2023) ([Code](https://github.com/vinid/neg_clip)) Project supervisor: Matthieu Futeral (matthieu.futeral@inria.fr)
 
 Despite the success of large vision and language models (VLMs) in many downstream applications, it is unclear how well they encode the compositional relationships between objects and attributes. This paper introduces a simple training method to overcome the shortcomings of VLMs when it comes to embed this compositional relationship.
