@@ -32,8 +32,13 @@ Self-supervised speech representation learning (SSL) is the core component of mo
 
 Some ideas for extensions: comparison with other monolingual or multilingual models, comparison of performance between finetuning languages, other tasks (phone recognition, language identification...), other training procedure (LoRA or other PEFT methods as in ML-SUPERB 2.0, etc.), multilingual finetuning vs monolingual finetuning.
 
-- Project 6 : Speech language models
+- Project 6 : [Augmentation Invariant Discrete Representation for Generative Spoken Language Modeling](https://aclanthology.org/2023.iwslt-1.46) (Gat et al., 2023) Project supervisor: Maxime Poli (maxime.poli@ens.psl.eu)
 
+Generative Spoken Language Modeling research focuses on optimizing speech language models (LMs) using raw speech recordings without any textual supervision. Such speech LMs operate over discrete units obtained from quantizing internal representations of self-supervised models. This paper focuses on improving the robustness of discrete input representations for generative spoken language modeling. The project will consist in reproducing the evaluations of robustness from the paper on selected models and augmentations, implementing the pseudo-labeling algorithm, and training the robust quantizer. It will be evaluated using the ABX metric on the discrete units (not with the zero-shot language modeling tasks: too costly to train the LM).
+
+Useful codebase: [textlesslib](https://github.com/facebookresearch/textlesslib) for easy loading of pretrained speech encoders and quantizers.
+
+Some ideas for extensions: introduce new augmentations, evaluation of robustness across languages, comparison with newer speech encoders ([DinoSR](https://proceedings.neurips.cc/paper_files/paper/2023/hash/b6404bf461c3c3186bdf5f55756af908-Abstract-Conference.html), [HuBERT + Spin](https://www.isca-archive.org/interspeech_2023/chang23_interspeech.html), [mHuBERT-147](https://arxiv.org/abs/2406.06371), [XEUS](https://aclanthology.org/2024.emnlp-main.570/), etc.)
 
 - Project 7: [**Anti-efficient encoding in emergent communication**](https://papers.nips.cc/paper/2019/file/31ca0ca71184bbdb3de7b20a51e88e90-Paper.pdf) (Chaabouni et al., 2019) & [**Lazimpa: Lazy and impatient agents learn to communicate efficiently**](https://www.aclweb.org/anthology/2020.conll-1.26/) (Rita et al., 2020) ([Code 1](https://github.com/facebookresearch/EGG), [Code 2](https://github.com/MathieuRita/Lazimpa)) Project supervisor: Jean-Baptiste Sevestre (jean-baptiste.sevestre@ens.psl.eu)
  	
