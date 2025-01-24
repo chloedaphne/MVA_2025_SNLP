@@ -1,4 +1,16 @@
+**DEADLINES**
+- Friday 24th, January 2025. CHOICE OF PROJECT TOPIC (7 available topics, first come first served: https://evento.renater.fr/survey/choice-of-mva-projects-7cgf1cb2 )
+- Monday 27th, January, 2025. Groups formed (random assignment based on topics)
+- Friday 14th, Februrary 2025. DEADLINE FOR SENDING 1 PAGE PROJECT PLAN (late submissions will be penalized by 1 point/20 every day): **specify what you want to do, the planning, and how you will collaborate within the group**
+- Friday 28th March, 2025: DEADLINE FOR SENDING the 4 PAGE-PROJECT REPORT (late submissions will be penalised by 1 point/20 every day)
+- Oral presentation (remote): 10-minute presentation + 5 minutes of questions. Slot TBA between Monday 31 March 2025 and Thursday April 10, 2025
 
+**Criteria for the evaluation**
+creativity, in-depth results analysis, critical thinking
+Example: depending on the project, you can suggest a different approach/improvement to the task, or make the method applicable to a different task or data set,
+
+
+**PROJECTS**
 
 - Project 1:  [**BERT Has Uncommon Sense: Similarity Ranking for Word Sense BERTology**](https://aclanthology.org/2021.blackboxnlp-1.43/) (Gessler and Schneider, 2021) ([Code](https://github.com/lgessler/bert-has-uncommon-sense/tree/master))
   Project supervisor: Aina Garí Soler (aina.gari-soler@inria.fr)
