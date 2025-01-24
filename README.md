@@ -1,7 +1,7 @@
 # MVA_2025_SNLP
 MVA Course "Algorithms for speech and language processing", 2025 
 
-# Speech and natural language processing (MVA 2024)
+# Speech and natural language processing (MVA 2025)
 
 ## News
 
