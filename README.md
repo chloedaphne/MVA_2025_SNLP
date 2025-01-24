@@ -62,7 +62,7 @@ Evaluation consists of 2 parts:
 - **Monday 27th, January, 2025. Groups formed (random assignment based on topics)**
 - [#2: Thursday 6th, February 2025 (2pm-5pm): NLP2](https://github.com/chloedaphne/MVA_2025_SNLP/tree/main/Course_%232) (Mathieu), Amphi Frezal (UPCité, Cordelliers)
 - [#3: Thursday 13th, February 2025 (2pm-5pm): Sentiment Analysis](https://github.com/chloedaphne/MVA_2025_SNLP/tree/main/Course_%233) (Chloe Clavel), Amphi 1 (UPCité Necker)
-- **Friday 14th, Februrary 2025. DEADLINE FOR SENDING 1 PAGE PROJECT PLAN**  (late submissions will be penalized by 1 point/20 every day)
+- **Friday 14th, Februrary 2025. DEADLINE FOR SENDING 1 PAGE PROJECT PLAN**  (late submissions will be penalized by 1 point/20 every day): specify what you want to do, the planning, and how you will collaborate within the group
 - [#4: Thursday 20th, February 2025 (2pm-5pm): Speech 1: acoustic models for ASR](https://github.com/chloedaphne/MVA_2025_SNLP/tree/main/Course_%234) (E. Dupoux), Amphi Jaures (ENS 29 rue d'Ulm)
 - [#5: Thursday 27th, February 2025 (2pm-5pm): Speech 2: language models for ASR](https://github.com/chloedaphne/MVA_2025_SNLP/tree/main/Course_%235) (E. Dupoux), Amphi Dussane (ENS 45 rue d'Ulm)
 - [#6: Thursday 6th, March 2025 (2pm-5pm): Speech 3: speech foundation models](https://github.com/chloedaphne/MVA_2025_SNLP/tree/main/Course_%236) (E. Dupoux), Amphi Frezal (UPCité, Cordelliers)
