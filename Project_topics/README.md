@@ -6,7 +6,9 @@
 - Oral presentation (remote): 10-minute presentation + 5 minutes of questions. Slot TBA between Monday 31 March 2025 and Thursday April 10, 2025
 
 **Criteria for the evaluation**
+
 creativity, in-depth results analysis, critical thinking
+
 Example: depending on the project, you can suggest a different approach/improvement to the task, or make the method applicable to a different task or data set,
 
 
