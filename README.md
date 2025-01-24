@@ -58,7 +58,7 @@ Evaluation consists of 2 parts:
 ### Schedule
 
 - [#1: Thursday  16th, January  2025 (2pm-5pm): Introduction and NLP1](https://github.com/chloedaphne/MVA_2025_SNLP/tree/main/Course_%231) (Benoît Sagot), Salle Dussane (ENS 45 rue d'Ulm)
-- **Friday 24th, January 2025. CHOICE OF PROJECT TOPIC** (through google form: 6 available topics, first come first served)
+- **Friday 24th, January 2025. CHOICE OF PROJECT TOPIC** (7 available topics, first come first served: https://evento.renater.fr/survey/choice-of-mva-projects-7cgf1cb2 )  
 - **Monday 27th, January, 2025. Groups formed (random assignment based on topics)**
 - [#2: Thursday 6th, February 2025 (2pm-5pm): NLP2](https://github.com/chloedaphne/MVA_2025_SNLP/tree/main/Course_%232) (Mathieu), Amphi Frezal (UPCité, Cordelliers)
 - [#3: Thursday 13th, February 2025 (2pm-5pm): Sentiment Analysis](https://github.com/chloedaphne/MVA_2025_SNLP/tree/main/Course_%233) (Chloe Clavel), Amphi 1 (UPCité Necker)
