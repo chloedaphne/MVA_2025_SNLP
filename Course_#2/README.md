@@ -2,16 +2,13 @@
 
 ## Basic information
 
-- Topic: Representation learning and language modelling 1
-- Teacher: Guillaume Wisniewski
-- Date and time: Thursday 7th March 2024, 2pm-5pm
+- Topic: Representation learning and language modelling (2/2)
+- Teacher: Matthieu Labeau
+- Date and time: Thursday 06th February 2025, 2pm-5pm
 - Place: Luton Amphitheatre, Faculté de médecine, Cordeliers campus
-
 
 ## Reading materials
 
-- an [Introductory book to NLP](https://www.amazon.fr/Introduction-Natural-Language-Processing-Eisenstein/dp/0262042843)
-
-## Link to the quiz 
-
-You will find the quiz [here](https://docs.google.com/forms/d/e/1FAIpQLScf-xoV0k7km7r35Cz5_tKXS7gx1ZViMtGWoQkaHWKiE_3OTg/viewform?usp=pp_url)
+- An [Introductory book to NLP](https://www.amazon.fr/Introduction-Natural-Language-Processing-Eisenstein/dp/0262042843)
+- The [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) book (chapters 9-11) 
+- A [tutorial on Parameter-Efficient Fine-tuning](https://docs.google.com/presentation/d/1seHOJ7B0bQEPJ3LBW5VmruMCILiVRoPb8nmU2OS-Eqc/edit#slide=id.p) at EMNLP 2022
