@@ -11,6 +11,8 @@ creativity, in-depth results analysis, critical thinking
 
 Example: depending on the project, you can suggest a different approach/improvement to the task, or make the method applicable to a different task or data set,
 
+**You will be evaluated individually on the basis of your engagement in the group work.**
+
 
 **PROJECTS**
 
