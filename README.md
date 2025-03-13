@@ -67,9 +67,9 @@ Evaluation consists of 2 parts:
 - [#5: Thursday 27th, February 2025 (2pm-5pm): Speech 2: language models for ASR](https://github.com/chloedaphne/MVA_2025_SNLP/tree/main/Course_%235) (E. Dupoux), Amphi Dussane (ENS 45 rue d'Ulm)
 - [#6: Thursday 6th, March 2025 (2pm-5pm): Speech 3: speech foundation models](https://github.com/chloedaphne/MVA_2025_SNLP/tree/main/Course_%236) (E. Dupoux), Amphi Frezal (UPCité, Cordelliers)
 
-- [#7: Thursday 13th, March 2025 (2pm-5pm): Dialogue](https://github.com/chloedaphne/MVA_2025_SNLP/tree/main/Course_%237) (TBA), Amphi Frezal (UPCité, Cordelliers)
-- [#8: Thursday 20th, March 2025 (2pm-5pm): Translation](https://github.com/chloedaphne/MVA_2025_SNLP/tree/main/Course_%238) (TBA), Amphi Frezal (UPCité, Cordelliers)
-- [#9: Thursday 27th, March 2025 (2pm-5pm): Language models everywhere: Code and Agents](https://github.com/chloedaphne/MVA_2025_SNLP/tree/main/Course_%239) (TBA), Amphi 1 (UPCité, Necker)
+- [#7: Thursday 13th, March 2025 (2pm-5pm): Dialogue](https://github.com/chloedaphne/MVA_2025_SNLP/tree/main/Course_%237) (Chloe Clave), Amphi Frezal (UPCité, Cordelliers)
+- [#8: Thursday 20th, March 2025 (2pm-5pm): Translation](https://github.com/chloedaphne/MVA_2025_SNLP/tree/main/Course_%238) (Rachel Bawden), Amphi Frezal (UPCité, Cordelliers)
+- [#9: Thursday 27th, March 2025 (2pm-5pm): Language models everywhere: Code and Agents](https://github.com/chloedaphne/MVA_2025_SNLP/tree/main/Course_%239) (Gabriel Synnaeve), Amphi 1 (UPCité, Necker)
 
 - **Friday 28th March, 2025: DEADLINE FOR SENDING the 4 PAGE-PROJECT REPORT** (late submissions will be penalised by 1 point/20 every day)
 
