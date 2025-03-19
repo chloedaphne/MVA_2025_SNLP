@@ -45,7 +45,7 @@ Basic linear algebra, calculus, probability theory, basic machine/deep learning
 
 ### 9 classes
 
-The course consists of 9 three-hours slots. This year, it will take place in person, on Thursdays from 2pm to 5pm at the Ecole Normale Supérieure, (ENS, 45 rue d'ULM, 5e), UPCité Necker (160 rue de Vaugirard, 15e), or UP Cité Cordelier (15 rue de l'École de médecine, 6e) depending on the date -- check the venues on the schedule below.
+The course consists of 9 three-hours slots. This year, it will take place in person, on Thursdays from 2pm to 5pm at the Ecole Normale Supérieure, (ENS, 45 rue d'ULM, 5e), UPCité Necker (160 rue de Vaugirard, 15e), or UP Cité Cordeliers (15 rue de l'École de médecine, 6e) depending on the date -- check the venues on the schedule below.
 
 Each three-hour slot will have a lecture lasting approximately two hours, followed by a quiz and Q&As.
 
@@ -60,12 +60,12 @@ Evaluation consists of 2 parts:
 - [#1: Thursday  16th, January  2025 (2pm-5pm): Introduction and NLP1](https://github.com/chloedaphne/MVA_2025_SNLP/tree/main/Course_%231) (Benoît Sagot), Salle Dussane (ENS 45 rue d'Ulm)
 - **Friday 24th, January 2025. CHOICE OF PROJECT TOPIC** (7 available topics, first come first served: https://evento.renater.fr/survey/choice-of-mva-projects-7cgf1cb2 )  
 - **Monday 27th, January, 2025. Groups formed (random assignment based on topics)**
-- [#2: Thursday 6th, February 2025 (2pm-5pm): NLP2](https://github.com/chloedaphne/MVA_2025_SNLP/tree/main/Course_%232) (Mathieu), Amphi Frezal (UPCité, Cordelliers)
+- [#2: Thursday 6th, February 2025 (2pm-5pm): NLP2](https://github.com/chloedaphne/MVA_2025_SNLP/tree/main/Course_%232) (Mathieu), Amphi Frezal (UPCité, Cordeliers)
 - [#3: Thursday 13th, February 2025 (2pm-5pm): Sentiment Analysis](https://github.com/chloedaphne/MVA_2025_SNLP/tree/main/Course_%233) (Chloé Clavel), Amphi 1 (UPCité Necker)
 - **Friday 14th, Februrary 2025. DEADLINE FOR SENDING 1 PAGE PROJECT PLAN**  (late submissions will be penalized by 1 point/20 every day): specify what you want to do, the planning, and how you will collaborate within the group
 - [#4: Thursday 20th, February 2025 (2pm-5pm): Speech 1: acoustic models for ASR](https://github.com/chloedaphne/MVA_2025_SNLP/tree/main/Course_%234) (E. Dupoux), Amphi Jaurès (ENS 29 rue d'Ulm)
 - [#5: Thursday 27th, February 2025 (2pm-5pm): Speech 2: language models for ASR](https://github.com/chloedaphne/MVA_2025_SNLP/tree/main/Course_%235) (E. Dupoux), Amphi Dussane (ENS 45 rue d'Ulm)
-- [#6: Thursday 6th, March 2025 (2pm-5pm): Speech 3: speech foundation models](https://github.com/chloedaphne/MVA_2025_SNLP/tree/main/Course_%236) (E. Dupoux), Amphi Frezal (UPCité, Cordelliers)
+- [#6: Thursday 6th, March 2025 (2pm-5pm): Speech 3: speech foundation models](https://github.com/chloedaphne/MVA_2025_SNLP/tree/main/Course_%236) (E. Dupoux), Amphi Frezal (UPCité, Cordeliers)
 
 - [#7: Thursday 13th, March 2025 (2pm-5pm): Dialogue](https://github.com/chloedaphne/MVA_2025_SNLP/tree/main/Course_%237) (Chloé Clavel), Amphi Frezal (UPCité, Cordeliers)
 - [#8: Thursday 20th, March 2025 (2pm-5pm): Translation](https://github.com/chloedaphne/MVA_2025_SNLP/tree/main/Course_%238) (Rachel Bawden), Amphi Frezal (UPCité, Cordeliers)
