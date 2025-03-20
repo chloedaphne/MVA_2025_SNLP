@@ -4,7 +4,7 @@
 
 - Topic: Machine Translation
 - Teacher: Rachel Bawden
-- Date and time: Thursday 20th March 2024, 2pm-5pm
+- Date and time: Thursday 20th March 2025, 2pm-5pm
 - Place: Amphi Frezal (UPCité, Cordeliers)
 
 ## Reading and links
