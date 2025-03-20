@@ -4,16 +4,12 @@
 
 - Topic: Machine Translation
 - Teacher: Rachel Bawden
-- Date and time: Friday 15th March 2024, 4pm-7pm
-- Place: Salle Dussanne, 45 rue d'Ulm
-
-## Quiz
-
-- Answers and comments found [here](Quiz-answers%2Bcomments.md).
+- Date and time: Thursday 20th March 2024, 2pm-5pm
+- Place: Amphi Frezal (UPCité, Cordeliers)
 
 ## Reading and links
 
-If you're interesting in going further...
+If you're interesting in going further... (many of these links and more can be found in the PDF of the class)
 
 - Opus parallel data repository: https://opus.nlpl.eu
 - Evaluation:
